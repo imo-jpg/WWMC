@@ -1,0 +1,188 @@
+* {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+}
+
+body {
+    background-color: #000000;
+}
+
+#right {
+    right: 12%;
+}
+
+#left {
+    left: 12%;
+}
+
+.film_edge {
+    position: fixed;
+    height: 100vh;
+    top: -5px;
+    margin: 0;
+    padding: 0;
+}
+
+.film_gap {
+    background-color: #ffffff;
+    height: 25px;
+    width: 35px;
+    margin: 12.5px;
+    border-radius: 2px;
+}
+
+.intro {
+    position: relative;
+    width: 65%;
+    margin: 5% auto;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    text-align: center;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 8rem;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+span {
+    font-weight: 600;
+}
+
+.monthHeader {
+    padding: 4% 4% 4% 4%;
+    margin: 0;
+    color: #ffffff;
+
+}
+
+.movieContainer {
+    display: flex;
+    padding: 2% 2% 4% 2%;
+    /* width: 100%; */
+    /* height: 50%; */
+}
+
+.movieBox {
+    position: relative;
+    width: 30%;
+    margin: 0 2%;
+    padding: 2%;
+    /* background-color: #ffffff; */
+    border: 1px solid #ffffff;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.movieBox p {
+    margin: 0;
+    color: #ffffff;
+    padding-top: 5px;
+}
+
+#starburst {
+    position: absolute;
+    top: 45%;
+    left: 75%;
+    width: auto;
+    height: 200px;
+}
+
+.month {
+    border: 1px solid #ffffff;
+    position: relative;
+    /* padding: 2%; */
+    /* height: 600px; */
+    width: 65%;
+    margin: 5% auto;
+    border-radius: 2px;
+}
+
+.inactive {
+    background-color: #ececec;
+}
+
+#jan {
+    background-image: url(January2.png);
+    background-size: 100%;
+    background-position: -10px, -10px;
+    /* background-color: #FE8401; */
+}
+
+#feb {
+    background-image: url(February.png);
+    background-size: 100%;
+    background-position: -10px, -10px;
+    /* background-color: #FED500; */
+}
+
+
+#mar {
+    background-image: url(March.png);
+    background-size: 100%;
+    background-position: -10px, -10px;
+    /* background-color: #34BC6E; */
+}
+
+#apr {
+    background-color: #000;
+    /* background-color: #00B6CB; */
+}
+
+#may {
+    background-color: #000;
+    /* background-color: #6793D1; */
+}
+
+#jun {
+    background-color: #000;
+    /* background-color: #B471D7; */
+}
+
+#jul {
+    background-color: #000;
+    /* background-color: #CF3C6E; */
+}
+
+@media only screen and (max-width: 600px) {
+
+    #starburst {
+        width: 100px;
+        z-index: 1;
+        top: 25%;
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+
+    .movieContainer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .movieBox {
+        width: 75%;
+        margin: 2% 0;
+    }
+
+    #right {
+        right: 2%;
+    }
+    
+    #left {
+        left: 2%;
+    }
+
+  }
