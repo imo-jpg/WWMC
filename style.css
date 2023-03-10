@@ -143,7 +143,7 @@ span {
     background-color: #000;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1200px) {
 
     #starburst {
         width: 100px;
@@ -153,6 +153,10 @@ span {
 
     h1 {
         font-size: 4rem;
+    }
+
+    p {
+        font-size: 2rem;
     }
 
     .movieContainer {
@@ -166,11 +170,12 @@ span {
     }
 
     #right {
-        right: 2%;
+        right: 4%;
     }
     
     #left {
-        left: 2%;
+        left: 4%;
     }
+    
 
   }
