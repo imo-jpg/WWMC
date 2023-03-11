@@ -50,10 +50,6 @@ h2 {
     font-size: 2rem;
 }
 
-h3 {
-    font-size: 1.5rem;
-}
-
 span {
     font-weight: 600;
 }
@@ -144,19 +140,28 @@ span {
 }
 
 @media only screen and (max-width: 1200px) {
-
+    
     #starburst {
         width: 100px;
         z-index: 1;
         top: 25%;
+        left: 65%;
     }
 
     h1 {
-        font-size: 4rem;
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
     }
 
     p {
         font-size: 1rem;
+    }
+
+    .month, .intro {
+        width: 50%;
     }
 
     .movieContainer {
