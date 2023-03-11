@@ -176,6 +176,11 @@ span {
     #left {
         left: 4%;
     }
+
+    #jan, #feb, #mar {
+        background-image: none;
+        background-color: #000000;
+    }
     
 
   }
