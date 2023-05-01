@@ -188,9 +188,10 @@ span {
         left: 4%;
     }
 
-    #jan, #feb, #mar {
-        background-image: none;
-        background-color: #000000;
+    #jan, #feb, #mar, #apr {
+        background-size: auto;
+        /* background-image: none;
+        background-color: #000000; */
     }
     
 
