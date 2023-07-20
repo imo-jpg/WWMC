@@ -125,18 +125,28 @@ span {
 #apr {
     background-image: url(April.png);
     background-size: 100%;
-    background-position: -10px, -10px;}
-
-#may {
-    background-color: #000;
+    background-position: -10px, -10px;
 }
 
+#may {
+    background-image: url(May.png);
+    background-size: 100%;
+    background-position: -10px, -10px;}
+
 #jun {
-    background-color: #000;
+    background-image: url(June.png);
+    background-size: 100%;
+    background-position: -10px, -10px;
 }
 
 #jul {
-    background-color: #000;
+    background-image: url(July.png);
+    background-size: 100%;
+    background-position: -10px, -10px;
+}
+
+#aug {
+    background-color: #000000;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -188,7 +198,7 @@ span {
         left: 4%;
     }
 
-    #jan, #feb, #mar, #apr {
+    #jan, #feb, #mar, #apr, #may, #jun, #jul, #aug {
         background-size: auto;
         background-image: none;
         background-color: #000000;
