@@ -146,8 +146,9 @@ span {
 }
 
 #aug {
-    background-color: #000000;
-}
+    background-image: url(August.png);
+    background-size: 100%;
+    background-position: -10px, -10px;}
 
 @media only screen and (max-width: 1200px) {
     
