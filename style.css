@@ -105,50 +105,58 @@ span {
 
 #jan {
     background-image: url(January2.png);
-    background-size: 100%;
-    background-position: -10px, -10px;
+    background-size: 120%;
+    background-position: -30px, -10px;
 }
 
 #feb {
     background-image: url(February.png);
-    background-size: 100%;
-    background-position: -10px, -10px;
+    background-size: 120%;
+    background-position: -30px, -10px;
 }
 
 
 #mar {
     background-image: url(March.png);
-    background-size: 100%;
-    background-position: -10px, -10px;
+    background-size: 120%;
+    background-position: -30px, -10px;
 }
 
 #apr {
     background-image: url(April.png);
-    background-size: 100%;
-    background-position: -10px, -10px;
+    background-size: 120%;
+    background-position: -30px, -10px;
 }
 
 #may {
     background-image: url(May.png);
-    background-size: 100%;
-    background-position: -10px, -10px;}
+    background-size: 120%;
+    background-position: -30px, -10px;
+}
 
 #jun {
     background-image: url(June.png);
-    background-size: 100%;
-    background-position: -10px, -10px;
+    background-size: 120%;
+    background-position: -30px, -10px;
 }
 
 #jul {
     background-image: url(July.png);
-    background-size: 100%;
-    background-position: -10px, -10px;
+    background-size: 120%;
+    background-position: -30px, -10px;
 }
 
 #aug {
     background-image: url(August.png);
-    background-size: 100%;
-    background-position: -10px, -10px;}
+    background-size: 120%;
+    background-position: -30px, -10px;
+}
+
+#sep {
+    background-image: url(September.png);
+    background-size: 120%;
+    background-position: -30px, -10px;
+}
 
 @media only screen and (max-width: 1200px) {
     
