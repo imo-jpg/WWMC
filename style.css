@@ -158,6 +158,18 @@ span {
     background-position: -30px, -10px;
 }
 
+#oct {
+    background-image: url(October.png);
+    background-size: 120%;
+    background-position: -30px, -10px;
+}
+
+#nov {
+    background-image: url(November.png);
+    background-size: 120%;
+    background-position: -30px, -10px;
+}
+
 @media only screen and (max-width: 1200px) {
     
     #starburst {
