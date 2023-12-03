@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="405px" height="207px" viewBox="0 0 405 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Inter-Regular_Black, Inter" font-weight="800">
+        <g id="Artboard" transform="translate(-345.000000, -259.000000)">
+            <g id="Group" transform="translate(345.000000, 259.000000)">
+                <g id="wwmc-logo" font-size="100">
+                    <text id="WWMC" stroke="#FFFFFF" stroke-width="0.5" fill="#ECECEC" fill-opacity="0">
+                        <tspan x="15" y="112">WWMC</tspan>
+                    </text>
+                    <text id="WWMC" stroke="#FFFFFF" stroke-width="0.5" fill="#ECECEC" fill-opacity="0">
+                        <tspan x="10" y="107">WWMC</tspan>
+                    </text>
+                    <text id="WWMC" stroke="#FFFFFF" stroke-width="0.5" fill="#ECECEC" fill-opacity="0">
+                        <tspan x="5" y="102">WWMC</tspan>
+                    </text>
+                    <text id="WWMC" fill="#FFFFFF">
+                        <tspan x="0" y="97">WWMC</tspan>
+                    </text>
+                </g>
+                <text id="WORLD-WIDE-MOVIE-CLU" font-size="30" fill="#FFFFFF">
+                    <tspan x="2" y="164">WORLD WIDE MOVIE CLUB</tspan>
+                </text>
+                <text id="2023" font-size="20" fill="#FFFFFF">
+                    <tspan x="176" y="202">2023</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
